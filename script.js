@@ -42,7 +42,7 @@ const translations = {
         'timer-text': 'Do našej svadby zostáva:',
         'footer': 'Tešíme sa na vás!',
         'rsvp-title': 'Potvrdenie účasti',
-        'rsvp-subtitle': 'Prosíme, dajte nám vedieť do 01.06.2026',
+        'rsvp-subtitle': 'Prosíme, dajte nám vedieť do 01.07.2026',
         'label-name': 'Vaše meno a priezvisko',
         'option-yes': 'Prídem',
         'option-no': 'Bohužiaľ nemôžem',
